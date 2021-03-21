@@ -16,7 +16,7 @@ https://www.chosun.com/national/2020/09/01/SLF77TZFDZGJJBUVN7JRYV3KIA/
 
 > 코로나 시대에 아이 돌보미에 대한 수요가 높아짐
 
-> 
+> 수요와 공급에 대한 정보 제공 시스템 부족
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5MzAxMTU2LC0xNTczMTEzNTIyXX0=
+eyJoaXN0b3J5IjpbNzQ2MzQ0NDI1LC0xNTczMTEzNTIyXX0=
 -->
