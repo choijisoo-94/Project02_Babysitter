@@ -18,10 +18,12 @@ https://www.chosun.com/national/2020/09/01/SLF77TZFDZGJJBUVN7JRYV3KIA/
 
 > 수요와 공급에 대한 정보 제공 시스템 부족\
 
+## Solution
 
+> 돌보미 매칭 서비스를 통해 사용자들이 편리하게 시터를 구할 수 있음
 
-돌보미 매칭 서비스를 통해 사용자들이 편리하게 시터를 구할 수 있음
+> 부모에게는 필요한 도움을 시터에게은 새로운 일자리 창출
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjE1MjIzNjIsNzQ2MzQ0NDI1LC0xNT
+eyJoaXN0b3J5IjpbLTIxMDIxMzUzOTQsNzQ2MzQ0NDI1LC0xNT
 czMTEzNTIyXX0=
 -->
