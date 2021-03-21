@@ -1,4 +1,4 @@
-# StackEdit에 오신 것을 환영합니다!
+#  Welcome to Kwon Sitter App!
 
 안녕! 저는 ** StackEdit ** 의 첫 번째 Markdown 파일입니다. StackEdit에서 배우고 페이지를 읽을 수 있습니다. Markdown으로 플레이하고 콘텐츠 저를 편집 할 수 있습니다. 저와 작업을 마치면 탐색 모음의 왼쪽 모서리에있는 ** 파일 탐색기 ** 를 열어 새 파일을 만들 수 있습니다.
 
@@ -142,5 +142,5 @@ B -> {D} 마름모
 C -> D ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY1NTk3NzBdfQ==
+eyJoaXN0b3J5IjpbNDA2Mjk5NDk3XX0=
 -->
